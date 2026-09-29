@@ -9,8 +9,8 @@ Je suis passionnée par le développement et la création des projets utiles.
 
 ## 🚀 Mes projets
 
-- 🗓️ **[reservation_geo](https://github.com/randrianasolos212-source/reservation_geo)** — Application de réservation (Dart)
-- 🏥 **[Projet medical Rdv](https://github.com/randrianasolos212-source/Projet-medical-Rdv)** — Gestion de rendez-vous médicaux (Java)
+- 🗓️ **[réservation_geo](https://github.com/randrianasolos212-source/réservation_geo)** — Application de réservation (Dart)
+- 🏥 **[Projet médical Rdv](https://github.com/randrianasolos212-source/Projet-médical-Rdv)** — Gestion de rendez-vous médicaux (Java)
 - 💊 **[AuditPharmacie](https://github.com/randrianasolos212-source/AuditPharmacie)** — Audit de pharmacie (C#)
 
 ---
