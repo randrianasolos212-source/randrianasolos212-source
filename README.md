@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hello I'm Shania 👋
 
-<!--
-**randrianasolos212-source/randrianasolos212-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Une seule ambiance, d'innombrables idées!!
 
-Here are some ideas to get you started:
+Je suis passionnée par le développement et la création des projets utiles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 🚀 Mes projets
+
+- 🗓️ **[reservation_geo](https://github.com/randrianasolos212-source/reservation_geo)** — Application de réservation (Dart)
+- 🏥 **[Projet medical Rdv](https://github.com/randrianasolos212-source/Projet-medical-Rdv)** — Gestion de rendez-vous médicaux (Java)
+- 💊 **[AuditPharmacie](https://github.com/randrianasolos212-source/AuditPharmacie)** — Audit de pharmacie (C#)
+
+---
+
+## 🛠️ Technologies
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+---
+
+## 📫 Me contacter
+
+- 📧 Email : randrianasolos212@gmail.com
+
